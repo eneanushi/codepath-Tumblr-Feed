@@ -29,11 +29,12 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 
 <div>
     <a href="https://www.loom.com/share/784effecb02e46bd93559ed7adc64877">
-    </a>
+      </a>
     <a href="https://www.loom.com/share/784effecb02e46bd93559ed7adc64877">
       <img style="max-width:300px;" src="null">
     </a>
   </div>
+  
 ## Notes
 
 Configuring the data was a little challenging nothing else. 
